@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 Tanmay Kulkarn 🚀 >
-</p>
-
 ###
 
 <div align="center">
@@ -58,6 +54,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tanmaykulkarni2112/tanmaykulkarni2112/output/snake.svg" alt="Snake animation" />
-
-###

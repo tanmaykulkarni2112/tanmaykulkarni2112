@@ -1,7 +1,6 @@
 # 💫 About Me:
-I'm currently diving deep into the world of Backend Development, exploring frameworks & databases! . My learning journey is hands-on—whether it's building RESTful APIs or optimizing server-side logic. I was proud to be a finalist in the Smart India Hackathon 2024–25! I'm passionate about solving problems, collaborating on impactful projects, and continuously leveling up as a backend engineer.
 
-
+### In the world of psuedo computer engineers.. trying to be a real one!
 
 
 ## 🌐 Socials:

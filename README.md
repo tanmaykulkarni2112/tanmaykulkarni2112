@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-### In the world of psuedo computer engineers.. trying to be a real one!
+## In the world of psuedo computer engineers.. trying to be a real one!
 
 
 ## 🌐 Socials:
